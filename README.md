@@ -11,7 +11,7 @@ Com base nos conhecimentos adquiridos nesse curso, recriei o jogo clássico Free
 COMO JOGAR:
 
 É BEM SIMPLES
-utilizando as teclas com a seta para cima e para baixo, você mivimentar o leo santana em busca do objetivo de chegar ao outro lado da pista sem ser atropelado pelos carros! Cada vez que você consegue chegar ao outro lado, soma 1 ponto e cada vez que leo santana é atropelado, subtrai 1 ponto!
+utilizando as teclas com a seta para cima e para baixo, você movimentar o leo santana em busca do objetivo de chegar ao outro lado da pista sem ser atropelado pelos carros! Cada vez que você consegue chegar ao outro lado, soma 1 ponto e cada vez que leo santana é atropelado, subtrai 1 ponto!
 
 Jogue ao som da música do carnaval, ZONA DE PERIGO!
 
