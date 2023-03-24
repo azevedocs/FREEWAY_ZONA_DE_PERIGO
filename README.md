@@ -2,7 +2,7 @@
 
 AJUDE O LEO SANTANA A ATRAVESSAR "ZONA DE PERIGO"
 
-Recriando o famoso jogo Free Way, agora de maneira descontraída. Utilizando o dono (LEO SANTANA) da música do Carnaval de Salvador 2023! 
+Recriando o famoso jogo Free Way, agora de maneira descontraída. Utilizando a música do Carnaval de Salvador 2023! 
 
 Seguindo o aprendizado, do curso Alura - Lógica de programação: laços e listas com JavaScript, ministrado por Guilherme Lima
 
