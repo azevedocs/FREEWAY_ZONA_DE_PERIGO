@@ -6,7 +6,7 @@ Recriando o famoso jogo Free Way, agora de maneira descontraída. Utilizando a m
 
 Seguindo o aprendizado, do curso Alura - Lógica de programação: laços e listas com JavaScript, ministrado por Guilherme Lima.
 
-Com base nos conhecimentos adquiridos nesse curso, recrei o jogo clássico Freeway utilizando a linguagem Javascript. aprendi a trabalhar com listas, laços de repetição, a importância de dividir o código por responsabilidades, funções e retorno de função. Além disso, aprendi a importância da refatoração, para manter o código limpo e legível.
+Com base nos conhecimentos adquiridos nesse curso, recriei o jogo clássico Freeway utilizando a linguagem Javascript. aprendi a trabalhar com listas, laços de repetição, a importância de dividir o código por responsabilidades, funções e retorno de função. Além disso, aprendi a importância da refatoração, para manter o código limpo e legível.
 
 COMO JOGAR:
 
